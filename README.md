@@ -9,7 +9,7 @@ scissors
 
 ## Installation and Run the game
 - Step 1: Install python v3.11.4 in your Terminal
-- Step 2: execute or run the game using this following command: python "Rock.Paper.Scissors.game.py"
+- Step 2: execute or run the game using this following command: python "Rock.Paper.Scissors.game.py" if it doesn't work, try with storage path
 - Now you can run the game
 
 ## Gameplay
